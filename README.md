@@ -1,10 +1,10 @@
-<h1> <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="29px"> Olá <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="29px"> </h1>
+<h1> Olá </h1>
 
 Meu nome é Isaque, tenho 24 anos, sou apaixonado pela minha bike.
 
 Aqui no meu GitHub você encontrará todos os meus projetos. :sunglasses:
 
-<h2>⚡Habilidade</h2>
+<h2>⚡Habilidades</h2>
 
 -   Back-end com NodeJs e Java
 -   Front-end with ReactJs e Angular
