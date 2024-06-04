@@ -11,8 +11,9 @@ Aqui no meu GitHub você encontrará todos os meus projetos. :sunglasses:
   
 Estas são as tecnologias que estou estudando no momento:
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img alt="angular" src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img alt="angular" src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/ios-glyphs/48/react.png" alt="react"/>
 <br>
 
 <div>
