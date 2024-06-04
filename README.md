@@ -1,4 +1,4 @@
-<h1> <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="29px"> Olá<img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="29px"> </h1>
+<h1> <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="29px"> Olá <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="29px"> </h1>
 
 Meu nome é Isaque, tenho 24 anos, sou apaixonado pela minha bike.
 
@@ -13,8 +13,6 @@ Estas são as tecnologias que estou estudando no momento:
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img alt="angular" src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo"/>
-
-
 <br>
 
 <div>
