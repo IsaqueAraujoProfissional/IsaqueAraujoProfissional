@@ -2,7 +2,7 @@
 
 Meu nome é Isaque, tenho 24 anos, sou apaixonado pela minha bike.
 
-Aqui no meu GitHub você encontrará todos os meus projetos.:sunglasses:
+Aqui no meu GitHub você encontrará todos os meus projetos. :sunglasses:
 
 <h2>⚡Habilidade</h2>
 
