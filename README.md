@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Isaque Araujo and I've been working with tech for +5 year!
+## My name is Isaque Araujo and I've been working with tech for +3 year!
 
 - 🌱 I am studying: **Java, TypeScript, Spring Boot, REST, Design Patterns, Angular, React, Node etc.**
 
