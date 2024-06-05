@@ -5,7 +5,7 @@
 
 - 📄 Experiences: **Técnico em Programação de Jogos Digitais - NAVE, Ciência da Computação - UFRJ**
 
-- 🤩 Work: **Junho 2022 - Maio 2024 - Application Developer - IBM // Consulting Associate**
+- 🤩 Work: **Junho 2022 - Maio 2024 - Application Developer - IBM // Consulting Associate, Agosto 2021 - Maio 2022 - Software Developer - COPPETEC**
 
 - 👩🏻‍💻 I work with: **Java, Spring Boot, TypeScript, Angular, React**
 
@@ -18,6 +18,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img alt="nodejs" width="40" height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img alt="angular" width="40" height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo"/></a> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/ios-glyphs/48/react.png" alt="react"/></a></p>
+
+<h3 align="left">Android applications published on Google Play:</h3>
+<p align="left"> <a href="https://play.google.com/store/apps/details?id=br.com.isaque.app.citacoes" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/53fMMkMmfrp_SLo5VDj4y5ZzY8-quGkXn0TCV4fPwvnJs1CPfnCFOFC05WnTGjYLLoI=w240-h480-rw" alt="css3" width="40" height="40"/> </a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquearaujoprofissional&layout=compact&theme=cobalt)](https://github.com/isaquearaujoprofissional/github-readme-stats)
 
