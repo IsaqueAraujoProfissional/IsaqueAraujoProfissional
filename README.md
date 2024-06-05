@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquearaujoprofissional&layout=compact&theme=cobalt)](https://github.com/isaquearaujoprofissional/github-readme-stats)
 
-[![Luisa's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=isaquearaujoprofissional&hide=issues&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Luisa's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=isaquearaujoprofissional&hide=issues&show_icons=true&theme=cobalt)](https://github.com/isaquearaujoprofissional/github-readme-stats)
 
 ##
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
