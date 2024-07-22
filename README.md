@@ -7,7 +7,7 @@
 
 - 🤩 Work: **Junho 2022 - Maio 2024 - Application Developer - IBM // Consulting Associate, Agosto 2021 - Maio 2022 - Software Developer - COPPETEC**
 
-- 👩🏻‍💻 I work with: **Java, Spring Boot, TypeScript, Angular, React**
+- 👩🏻‍💻 I work with: **Java, Spring Boot, Quarkus, TypeScript, Angular, React**
 
 - 📫 How to reach me: **isaquearaujo.profissional@gmail.com**
 
