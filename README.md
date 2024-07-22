@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Isaque Araujo and I've been working with tech for +3 year!
 
-- 🌱 I am studying: **Java, TypeScript, Spring Boot, Kafka, RabbitMQ, REST, Design Patterns, Angular, React, Node etc.**
+- 🌱 I am studying: **Java, TypeScript, Spring Boot, Quarkus, Kafka, RabbitMQ, REST, Design Patterns, Angular, React, Node etc.**
 
 - 📄 Experiences: **Técnico em Programação de Jogos Digitais - NAVE, Ciência da Computação - UFRJ**
 
